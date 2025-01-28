@@ -1,35 +1,40 @@
-# sneakers
+# Интернет-магазин Кросовок
 
-This template should help get you started developing with Vue 3 in Vite.
+[Ссылка на GitHub Pages]()
 
-## Recommended IDE Setup
+[Ссылка на макет Figma]()
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Описание и функциональность
 
-## Customize configuration
+Здесь будет описание.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Функционал:
 
-## Project Setup
+- Раз;
+- Два;
+- Три.
 
-```sh
-npm install
+Технологии:
+
+- Vue 3;
+- Vue Router;
+- TailwindCSS;
+- Axios;
+- @formkit/auto-animate;
+- Composition API / Options API;
+- ESLint;
+- Prettier.
+
+Выводы:
+
+- Здесь будет вывод.
+
+Планы:
+
+- Здесб юудут планы.
+
+## Инструкция по установке
+
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
+Здесь будет инструкция.
 ```
