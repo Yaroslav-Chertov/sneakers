@@ -1,6 +1,6 @@
 # Интернет-магазин Кроссовок
 
-[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/sneakers)
+[Ссылка на деплой на Vercel]()
 
 ![](./public/screenshot.png)
 
