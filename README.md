@@ -1,6 +1,6 @@
 # Интернет-магазин Кроссовок
 
-[Ссылка на деплой на Vercel](https://sneakers-crw5my150-yaroslavs-projects-c6eb330e.vercel.app/)
+<a href="https://sneakers-crw5my150-yaroslavs-projects-c6eb330e.vercel.app/" target="_blank">Ссылка на деплой на Vercel</a>
 
 ![](./public/screenshot.png)
 
